@@ -1,0 +1,40 @@
+{
+  "manifest_version": "2",
+  "updated": "2026-06-20",
+  "channel": "stable",
+  "models": [
+    {
+      "filename": "1xgaterv3_r_sharpen_fp32_op17.onnx",
+      "name": "GaterV3 Sharpen â€” AI Enhance",
+      "description": "Real learned sharpener at same resolution. Used by the Enhance button. CC-BY-4.0.",
+      "size_mb": 82.4,
+      "url": "https://github.com/darchviz/bcycles-models/releases/download/v1.9.66/1xgaterv3_r_sharpen_fp32_op17.onnx",
+      "sha256": "0469586F39E75B5C18FD0B501F81612C334E10F2558B27FFE5F13FA6DE78CE44",
+      "min_addon_version": "1.9.66",
+      "license": "CC-BY-4.0",
+      "author": "Philip Hofmann"
+    },
+    {
+      "filename": "1xgaterv3_r_restore_fp32_op17.onnx",
+      "name": "GaterV3 Restore â€” AI Enhance",
+      "description": "Learned micro-detail consolidator at same resolution. CC-BY-4.0.",
+      "size_mb": 82.4,
+      "url": "https://github.com/darchviz/bcycles-models/releases/download/v1.9.66/1xgaterv3_r_restore_fp32_op17.onnx",
+      "sha256": "6653528B62FE763403E18FA33A21C28755B27006E15D6BE4B2C2C56C7CA4D27B",
+      "min_addon_version": "1.9.66",
+      "license": "CC-BY-4.0",
+      "author": "Philip Hofmann"
+    },
+    {
+      "filename": "4xNomos2_hq_mosr_fp32.onnx",
+      "name": "Nomos2 MoSR x4 â€” Pro Upscale",
+      "description": "Fast Pro upscale for clean renders. Reconstructs material micro-texture. CC-BY-4.0.",
+      "size_mb": 16.5,
+      "url": "https://github.com/darchviz/bcycles-models/releases/download/v1.9.66/4xNomos2_hq_mosr_fp32.onnx",
+      "sha256": "F31FDE6BD0E3475759AA5677D37B43B4E660D75E3629CD096CBC590FEB746808",
+      "min_addon_version": "1.9.66",
+      "license": "CC-BY-4.0",
+      "author": "Philip Hofmann"
+    }
+  ]
+}
