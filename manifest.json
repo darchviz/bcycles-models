@@ -35,6 +35,17 @@
       "min_addon_version": "1.9.66",
       "license": "CC-BY-4.0",
       "author": "Philip Hofmann"
+    },
+    {
+      "filename": "4xNomos2_hq_dat2_fp32.onnx",
+      "name": "Nomos2 DAT2 x4 — Quality Texture Reconstruction",
+      "description": "DAT2 transformer that RECONSTRUCTS material micro-texture on clean/denoised renders (arch-viz interiors), not just sharpen. Use the Quality profile + Upscale x2/x4 — its synthesized texture survives only at upscale resolution. CC-BY-4.0.",
+      "size_mb": 50.4,
+      "url": "https://github.com/darchviz/bcycles-models/releases/download/v1.9.66/4xNomos2_hq_dat2_fp32.onnx",
+      "sha256": "F5B0B05F767EBC4B85431DF6743F52995824EB3F965A8B9B97D94E5B896DF5CA",
+      "min_addon_version": "1.9.66",
+      "license": "CC-BY-4.0",
+      "author": "Philip Hofmann"
     }
   ]
 }
