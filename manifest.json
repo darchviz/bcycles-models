@@ -31,7 +31,7 @@
       "description": "Fast Pro upscale for clean renders. Reconstructs material micro-texture. CC-BY-4.0.",
       "size_mb": 16.5,
       "url": "https://github.com/darchviz/bcycles-models/releases/download/v1.9.66/4xNomos2_hq_mosr_fp32.onnx",
-      "sha256": "F31FDE6BD0E3475759AA5677D37B43B4E660D75E3629CD096CBC590FEB746808",
+      "sha256": "F31FDE6BD0E3475759AA5677D37B43B4E660D75E3629CD096BBC590FEB746808",
       "min_addon_version": "1.9.66",
       "license": "CC-BY-4.0",
       "author": "Philip Hofmann"
